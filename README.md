@@ -1,9 +1,9 @@
-🛒 Direnc.net Ürün Yorum Analiz Aracı  
+# 🛒 Direnc.net Ürün Yorum Analiz Aracı  
 Bu proje, belirli bir ürün kategorisindeki (Arduino Ana Board) ürünleri tarayarak kullanıcı yorumlarını toplayan, yorum sayılarını analiz eden ve en çok yorum alan ürünü tespit eden bir web scraping uygulamasıdır.
 
 ---
 
-✨ Özellikler
+## ✨ Özellikler
 
 🔍 Direnc.net sitesinde kategori tabanlı ürün arama  
 🗂️ Arduino ana kart ürünlerini otomatik olarak listeleme  
@@ -14,7 +14,7 @@ Bu proje, belirli bir ürün kategorisindeki (Arduino Ana Board) ürünleri tara
 
 ---
 
-📦 Kullanılan Teknolojiler
+## 📦 Kullanılan Teknolojiler
 
 - 🐍 **Python** – Temel betik dili  
 - 🌐 **Selenium WebDriver** – Web tarayıcı otomasyonu  
@@ -24,7 +24,7 @@ Bu proje, belirli bir ürün kategorisindeki (Arduino Ana Board) ürünleri tara
 
 ---
 
-🛠️ Kurulum ve Çalıştırma
+## 🛠️ Kurulum ve Çalıştırma
 
 1. Python 3.x kurulu olduğundan emin olun.  
 2. Gerekli Python kütüphanelerini yükleyin:
